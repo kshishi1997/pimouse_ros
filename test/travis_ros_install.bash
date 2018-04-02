@@ -5,7 +5,6 @@ pip install catkin_pkg
 pip install empy
 pip install pyyaml
 pip install rospkg
-pip install --upgrade pip
 
 #ros install
 cd ..
@@ -21,3 +20,24 @@ source /opt/ros/indigo/setup.bash
 catkin_init_workspace
 cd ~/catkin_ws
 catkin_make
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
